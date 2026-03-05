@@ -25,7 +25,7 @@ setup(name='koalix-crm',
                         'django-grappelli==2.15.7',
                         'djangorestframework==3.14.0',
                         'djangorestframework-xml==2.0.0',
-                        'markdown==3.1.1',
+                        'markdown==3.8.1',
                         'django-filter==23.5',
                         'pandas==1.5.3',
                         'matplotlib==3.7.5'
